@@ -1,5 +1,5 @@
 'use strict'
-
+// создание приложения рачета бюджета
 let startBtn = document.getElementById("start"), 
     budgetValue = document.getElementsByClassName('budget-value') [0], //++ исправил
     daybudgetValue = document.getElementsByClassName('daybudget-value') [0],
